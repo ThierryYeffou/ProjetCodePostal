@@ -1,0 +1,17 @@
+
+body {
+ background-color: #808080; /*Couleur de fond*/
+ font-family: Verdana, sans-serif; 
+ font-size: 100%;
+ }
+ form{
+  position:absolute;
+   top:50%; /*hauteur*/
+   left:50%; /*largeur*/
+   width:500px; /*  donner la bonne largeur */
+   height:260px; /*  donner la bonne hauteur */
+   margin-left:-220px; /* -largeur/2 */
+   margin-top:-150px; /* -hauteur/2 */
+   background:blue;  
+ }
+ 
